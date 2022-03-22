@@ -472,3 +472,15 @@ background: #FFFFFF;
 border: 1px solid #C4C4C4;
 box-sizing: border-box;
 }
+.texto2 {
+position: absolute;
+width: 343px;
+height: 307px;
+left: 1px;
+top: 370px;
+
+background: #FFFFFF;
+border: 1.53407px solid rgba(0, 0, 0, 0.1);
+box-sizing: border-box;
+border-radius: 15.3407px;
+}
