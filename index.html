@@ -29,16 +29,21 @@
             <h2 class="adicione">Adicionar seu super-herói</h2>
             <h3 class="h3">Adicione seu personagem favorito completando as informações</h3>
             <form action="">
-                <p class="inicio">*Nome</p>
-                <input type="text" class="texto">
+                
+                    
+                    <label for="nome" class="fieldsetnome"> *Nome</label>
+                    <input type="text" name="nome" id="nome" required class="texto">
+                
+            
             </form>
             <form action="">
-                <p class="especie">*Espécie</p>
-                <select name="" id="" class="select">
-                    <option value="1">mutante</option>
-                    <option value="2">humano</option>
-                    <option value="3">alienígena</option>
-                </select>
+                <label for="Espécie" class="especie">Espécie</label>
+                    <select id="Espécie1">
+                        <option selected disabled value="">Selecione</option>
+                        <option>humano</option>
+                        <option>Mutante</option>
+                        <option>alienígena</option>
+                    </select>
                 <p class="data">Data de nascimento</p>
                 <input type="date" class="date">
                 <p class="foto"> adicionar foto</p>
@@ -50,15 +55,16 @@
                 <label for="super rico" class="rico">Super rico</label>
                 <form action="">
                     <p class="inicio">*Nome</p>
-                    <input type="text" class="texto2">
+                    <input type="text" name="Descrição" class="texto2">
                 </form>
                 <div class="traço"></div>
                 <p class="tipo"> Tipo de personagem</p>
                 <label for="Herói/heroina" class="heroi">Herói/heroina</label>
                 <label for="vilão/vilã" class="vilão">vilão/vilã</label>
-                <button class="botão">Adicionar</button>
+                <button class="botão" type="submit">Adicionar</button>
 
         </div>
+        </main>
         <footer class="footer">
             <div class="div-footer">
                 <h2 class="h2">Todos os direitos reservados a FRONT END 1</h2>

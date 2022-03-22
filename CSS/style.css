@@ -172,7 +172,7 @@ text-align: center;
 
 color: #FFF9F9;
 }
-.inicio {
+.fieldsetnome {
 align-items: center;
 width: 66px;
 height: 24px;
@@ -217,7 +217,7 @@ text-align: center;
 color: #FFFFFF;
 
 }
-.select{
+#Espécie1{
 position: absolute;
 width: 342px;
 height: 63px;
