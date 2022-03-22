@@ -1,0 +1,474 @@
+.cabeçalho {
+position: absolute;
+width: 1440px;
+height: 40px;
+left: 0px;
+top: 0px;
+background: #1CD1B0;
+}
+.titulo {
+    font: roboto;
+    font-weight: 400 regular;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 17.58px;
+    align-items: center;
+}
+.cabeçalho2 {
+position: absolute;
+width: 1440px;
+height: 81px;
+left: 0px;
+top: 40px;
+
+background: #00669F;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.h1{
+position: absolute;
+width: 186px;
+height: 35px;
+left: 109px;
+top: 5px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.cabeçalho3{
+position: absolute;
+width: 1440px;
+height: 40px;
+left: 0px;
+top: 120px;
+
+background: #001D2D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Contato{
+position: absolute;
+width: 57px;
+height: 19px;
+left: 1172px;
+top: 115px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: white;
+}
+.Registre-se{
+position: absolute;
+width: 86px;
+height: 19px;
+left: 1253px;
+top: 115px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+color: white;
+}
+.Login{
+position: absolute;
+width: 40px;
+height: 19px;
+left: 1369px;
+top: 115px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+color: white;
+}
+.divmain{
+position: absolute;
+width: 954px;
+height: 832px;
+left: 243px;
+top: 184px;
+
+background: #00669F;
+box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.3);
+border-radius: 49.0901px;
+}
+.adicione{
+position: relative;
+width: 510px;
+height: 72px;
+left: 200px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 72px;
+/* identical to box height, or 179% */
+
+text-align: center;
+
+color: #FBFFFD;
+}
+.h3{
+position: relative;
+width: 594px;
+height: 14px;
+left: 200px;
+top: -30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 14px;
+/* identical to box height, or 70% */
+
+
+color: #FFFFFF;
+
+}
+.footer {
+position: absolute;
+width: 1440px;
+height: 61px;
+left: -1px;
+top: 1055px;
+
+background: #00669F;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.h2 {
+align-items: center;
+width: 321px;
+height: 19px;
+left: 558px;
+top: 1076px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFF9F9;
+}
+.inicio {
+align-items: center;
+width: 66px;
+height: 24px;
+left: 375px;
+top: 290px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF
+}
+.texto{
+position: absolute;
+width: 343px;
+height: 63px;
+left: 0px;
+top: 200px;
+
+background: #FFFFFF;
+border: 1.53407px solid rgba(0, 0, 0, 0.1);
+box-sizing: border-box;
+border-radius: 15.3407px;
+}
+.especie {
+position: absolute;
+width: 84px;
+height: 24px;
+left: 532px;
+top: 150px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.select{
+position: absolute;
+width: 342px;
+height: 63px;
+left: 520px;
+top: 200px;
+
+background: #FFFFFF;
+border: 1.53407px solid rgba(0, 0, 0, 0.1);
+box-sizing: border-box;
+border-radius: 15.3407px
+}
+.data {
+position: absolute;
+width: 191px;
+height: 24px;
+left: 0px;
+top: 250px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.date{
+position: absolute;
+width: 343px;
+height: 63px;
+left: 0px;
+top: 300px;
+
+background: #FFFFFF;
+border: 1.53407px solid rgba(0, 0, 0, 0.1);
+box-sizing: border-box;
+border-radius: 15.3407px;
+}
+.foto{
+position: absolute;
+width: 135px;
+height: 24px;
+left: 532px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.inputfoto{
+position: absolute;
+width: 223px;
+height: 32px;
+left: 532px;
+top: 331px;
+
+background: #CECECE;
+border-radius: 5px;
+}
+.poderes{
+position: absolute;
+width: 77px;
+height: 20px;
+left: 532px;
+top: 370px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 26px;
+/* or 128% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.voar{
+ position: absolute;
+width: 24px;
+height: 20px;
+left: 532px;
+top: 420px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 26px;
+/* or 159% */
+color: #FFFFFF;
+ 
+}
+.botão{
+position: absolute;
+width: 466px;
+height: 87px;
+left: 220px;
+top: 711px;
+
+background: #1CD1B0;
+border-radius: 23.011px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 44px;
+/* identical to box height, or 110% */
+
+text-align: center;
+
+color: #000000;
+
+}
+.super{
+position: absolute;
+width: 133px;
+height: 19px;
+left: 609px;
+top: 628px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+position: absolute;
+width: 24px;
+height: 20px;
+left: 532px;
+top: 460px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+}
+.raio{
+    position: absolute;
+width: 130px;
+height: 19px;
+left: 779.54px;
+top: 663px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+position: absolute;
+width: 24px;
+height: 20px;
+left: 532px;
+top: 490px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+}
+.rico{
+    position: absolute;
+width: 75px;
+height: 19px;
+left: 779.54px;
+top: 696px;
+
+font-family: 'Karla';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+position: absolute;
+width: 24px;
+height: 20px;
+left: 532px;
+top: 520px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+}
+.traço{
+position: absolute;
+width: 343px;
+height: 0px;
+left: 402px;
+top: 580px;
+
+border: 1px solid #CCCCCC;
+}
+.tipo {
+position: absolute;
+width: 168px;
+height: 26px;
+left: 500px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 128% */
+
+
+color: #FFFFFF;
+
+}
+.heroi{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 500.54px;
+top: 620px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+
+}
+.vilão{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 500.54px;
+top: 650px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+}
